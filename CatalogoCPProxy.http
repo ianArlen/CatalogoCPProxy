@@ -1,0 +1,6 @@
+@CatalogoCPProxy_HostAddress = http://localhost:5190
+
+GET {{CatalogoCPProxy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
